@@ -1,9 +1,6 @@
 
 # 📖 Your-Own-Boss
-### 🧐 FinTech Creator Economy ✨
-
-
-![](i am a creator.png)
+### 🧐 FinTech Creator Economy 
 
 
 ![Developer](https://img.shields.io/badge/developer-priyanshiraj2909-brightgreen)
